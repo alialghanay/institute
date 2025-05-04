@@ -1,0 +1,9 @@
+[submodule "institute-server"]
+	path = institute-server
+	url = https://github.com/alialghanay/institute-server.git
+[submodule "institute-web-app"]
+	path = institute-web-app
+	url = https://github.com/alialghanay/institute-web-app.git
+[submodule "institute-mobile-app"]
+	path = institute-mobile-app
+	url = https://github.com/alialghanay/institute-mobile-app.git
